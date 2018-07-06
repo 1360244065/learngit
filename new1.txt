@@ -1,4 +1,6 @@
 Git is a distributed version control system.
 Git is a free software 
 Create a new branch is quik
-test chongtu and master and dev
+test chongtu and master and devv test 远程
+
+test stash
